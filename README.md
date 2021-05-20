@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+****NOTE:- Kindly get the latest Node modules into the app (as unable to upload them  )[Important files- App.js; Main.js,explanation and screenshots]
+[explanation and screenshots.pdf](https://github.com/rudra2027/Word-Occurence-Portal/files/6512053/explanation.and.screenshots.pdf)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
